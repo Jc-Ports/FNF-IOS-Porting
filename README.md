@@ -1,10 +1,12 @@
-# FNF-Android-Porting:
+# FNF-IOS-Porting:
 
-The things im using when i port a mod to android
+The things im using when i port a mod to IOS
 
 **This should be used for the FNF 0.2.8 update and engines that have this version of FNF**
 
-### PC compile instructions For Android:
+### Mac compile instructions For IOS:
+
+# Note you will need a actual iphone for this and make sure you connected  it to your iphone with a charging cable for iphone. if you are done compiling and want people to play your port, make sure you put your application into a folder by creating one and renameing the folder Payload because if you don't your application will have issues. and then compress the Payload folder and rename the .zip to .ipa that way people can play your port
 
 1. Download
 * [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) - Download the current version 
